@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Sandhya Kumari Shaw
 
 - 🎓 2nd-year B.Tech CSE (AI & ML) student at Meghnad Saha Institute of Technology, Kolkata
-- 💻 Interested in AI/ML, Web Development, Open Source & Hackathons
+- 💻 Interested in AI/ML, Web Development, Open Source & Hackathons, Startups
 - 🌱 Currently strengthening DSA and building projects
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/sandhya-kumari-shaw-1b9215363)
 
@@ -18,19 +18,11 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-#### 📊 GitHub Stats:
-![Sandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandhya-ai-bit&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-ai-bit&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandhya-ai-bit&theme=dark)
-
-#### 🏆 Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=Sandhya-ai-bit&theme=darkhub&no-frame=true&row=1&column=6)
-
 #### 🏆 Highlights:
 - Top 10 Finalist & Team Lead — Winter Solstice Hackathon
 - Global Sprint Finisher — Hack-Nation Global AI Hackathon
-- Smart India Hackathon 2025 — Internal Round Qualifier'25
-- Girl Script Summer of Code 2026 Contributor — Open Source (Civic-Tech Frontend)
+- Smart India Hackathon 2025 — Internal Round Qualifier
+- GirlScript Summer of Code 2026 Contributor — Open Source (Civic-Tech Frontend)
+- SheFi Scholar 2026
+- STEM for HER Scholar 2025
 
