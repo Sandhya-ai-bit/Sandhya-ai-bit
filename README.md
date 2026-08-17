@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi 👋, I'm Sandhya Kumari Shaw
 
-<!--
-**Sandhya-ai-bit/Sandhya-ai-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 2nd-year B.Tech CSE (AI & ML) student at Meghnad Saha Institute of Technology, Kolkata
+- 💻 Interested in AI/ML, Web Development, Open Source & Hackathons
+- 🌱 Currently strengthening DSA and building projects
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/sandhya-kumari-shaw-1b9215363)
 
-Here are some ideas to get you started:
+#### Languages and Tools:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 GitHub Stats:
+![Sandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandhya-ai-bit&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-ai-bit&layout=compact&theme=dark)
+
+#### 🏆 Highlights:
+- Smart India Hackathon 2025 — Internal Round Qualifier
+- Top 10 Finalist & Team Lead — Winter Solstice Hackathon
+- Global Sprint Finisher — Hack-Nation Global AI Hackathon
+- GSSoC 2026 Contributor — Open Source (Civic-Tech Frontend)
