@@ -21,7 +21,7 @@
 #### 🏆 Highlights:
 - Top 10 Finalist & Team Lead — Winter Solstice Hackathon
 - Global Sprint Finisher — Hack-Nation Global AI Hackathon
-- Smart India Hackathon 2025 — Internal Round Qualifier
+- Smart India Hackathon 2025 and 2026 — Internal Round Qualifier
 - GirlScript Summer of Code 2026 Contributor — Open Source (Civic-Tech Frontend)
 - SheFi Scholar 2026
 - STEM for HER Scholar 2025
